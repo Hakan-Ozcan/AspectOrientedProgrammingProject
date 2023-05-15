@@ -1,0 +1,4 @@
+﻿
+PostSharp, kod bazında aspectleri uygulamak için derleme zamanında ileri yöntemleri kullanırken,
+Castle.DynamicProxy runtime'da proxy nesneleri oluşturarak aspectleri uygular.
+Her iki yaklaşımın da avantajları ve dezavantajları vardır ve kullanım durumunuza bağlı olarak tercih edebilirsiniz.
