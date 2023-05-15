@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AspectOrientedProgrammingProject
 {
-    // Günlükleme işlevini gerçekleştiren aspect sınıfı
+    // Günlükleme işlevini gerçekleştiren Aspect sınıfı
     [Serializable]
     public class LoggingAspect : OnMethodBoundaryAspect
     {
